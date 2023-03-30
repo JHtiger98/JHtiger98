@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 I graduated from JamesCook University
+🖥️ I majored in Information Technology
 🌱 I’m currently learning Big Data Analytics, Machine Learning, Deep Learning
 
 ### Projects
