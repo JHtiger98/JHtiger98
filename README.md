@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎓 I graduated from JamesCook University
+🎓 I graduated from James Cook University
 
 🖥️ I majored in Information Technology
 
